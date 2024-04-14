@@ -21,7 +21,7 @@ const TOURS: Tour[] = [
   {
     id: 4,
     video: "/tours/mosque djerba.mp4",
-    title: "mosque djerba",
+    title: "Djerba Mosque",
     briefIntro:
       "  Immerse yourself in the rich tapestry of Islamic culture at the Djerba's captivating mosques. These architectural gems offer a glimpse into Djerba's vibrant past and enduring faith.",
     description: [
@@ -33,7 +33,7 @@ const TOURS: Tour[] = [
   {
     id: 2,
     video: "/tours/mosque el zaitouna.mp4",
-    title: "Mosqué el Zaitouna",
+    title: "Ez-Zitouna Mosque",
     description: [
       "Founded at the end of the 7th or early 8th century, Ez-Zitouna Mosque boasts a captivating blend of architectural styles reflecting its long and fascinating history.  Wander through its expansive courtyards, marvel at the intricate mosaics and calligraphy, and immerse yourself in the serene atmosphere that has inspired generations of scholars and worshippers.",
       "Ez-Zitouna Mosque housed a renowned university, attracting scholars from across the Islamic world. Its legacy continues to inspire Tunisia's educational landscape",
@@ -47,7 +47,7 @@ const TOURS: Tour[] = [
   {
     id: 3,
     video: "/tours/musée archéologique de tunisie.mp4",
-    title: "musée archéologique de Tunis",
+    title: "Muesum of Tunisia",
     briefIntro:
       "Embark on a captivating journey through time at the Musée Archéologique de Tunis, a treasure trove of Tunisia's rich and multifaceted history.",
     description: [
@@ -62,7 +62,7 @@ const TOURS: Tour[] = [
   {
     id: 5,
     video: "/tours/sidi bousaid.mp4",
-    title: "sidi Bousaid",
+    title: "Sidi Bousaid",
     briefIntro:
       "With her rich history and overlooking the sparkling Mediterranean Sea, Sidi Bou Said is a Tunisian village that seems to have stepped out of a fairytale.",
     description: [
@@ -77,7 +77,7 @@ const TOURS: Tour[] = [
   {
     id: 6,
     video: "/tours/tataouine berber village.mp4",
-    title: "tataouine berber village",
+    title: "Tataouine Berber village",
     briefIntro:
       "Venture beyond the beaten path and discover the captivating world of Tataouine's Berber villages.",
     description: [
